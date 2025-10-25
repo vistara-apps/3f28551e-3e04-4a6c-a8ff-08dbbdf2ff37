@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJ6b2xhbi5haSJ9",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "Zolan AI",
+    "homeUrl": "https://zolan.ai",
+    "iconUrl": "https://zolan.ai/icon.png",
+    "splashImageUrl": "https://zolan.ai/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://api.zolan.ai/webhooks/farcaster",
+    "subtitle": "Your Onchain AI Companion",
+    "description": "Co-create and build onchain reputation with your personalized AI, Zolan, directly within Farcaster.",
+    "screenshotUrls": [
+      "https://zolan.ai/screenshot1.png",
+      "https://zolan.ai/screenshot2.png",
+      "https://zolan.ai/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["ai", "companion", "onchain", "reputation", "co-creation"],
+    "heroImageUrl": "https://zolan.ai/hero.png",
+    "tagline": "Intelligent AI for Modern Solutions",
+    "ogTitle": "Zolan AI - Your Onchain Companion",
+    "ogDescription": "Co-create and build onchain reputation with your personalized AI",
+    "ogImageUrl": "https://zolan.ai/og-image.png"
+  }
+}

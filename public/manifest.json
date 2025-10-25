@@ -1,0 +1,14 @@
+{
+  "name": "Zolan AI: Your Onchain Companion",
+  "description": "Zolan AI: Your Onchain Companion is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://3f28551e-3e04-4a6c-a8ff-08dbbdf2ff37.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Zolan AI: Your Onchain Companion",
+      "description": "Zolan AI: Your Onchain Companion is a Base Mini App built with Zara.",
+      "url": "https://3f28551e-3e04-4a6c-a8ff-08dbbdf2ff37.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

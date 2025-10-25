@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "Zolan AI",
-    "homeUrl": "https://zolan.ai",
+    "homeUrl": "https://app-bdf2ff37-3g8l.vercel.app",
     "iconUrl": "https://zolan.ai/icon.png",
     "splashImageUrl": "https://zolan.ai/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://api.zolan.ai/webhooks/farcaster",
+    "webhookUrl": "https://app-bdf2ff37-3g8l.vercel.app/api/webhook",
     "subtitle": "Your Onchain AI Companion",
     "description": "Co-create and build onchain reputation with your personalized AI, Zolan, directly within Farcaster.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://zolan.ai/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["ai", "companion", "onchain", "reputation", "co-creation"],
+    "tags": [
+      "ai",
+      "companion",
+      "onchain",
+      "reputation",
+      "co-creation"
+    ],
     "heroImageUrl": "https://zolan.ai/hero.png",
     "tagline": "Intelligent AI for Modern Solutions",
     "ogTitle": "Zolan AI - Your Onchain Companion",
